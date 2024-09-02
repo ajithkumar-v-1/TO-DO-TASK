@@ -1,7 +1,8 @@
 import { useEffect, useState } from "react"; import "./App.css";
  import "bootstrap/dist/css/bootstrap.min.css";
- import Card from "./Components/Card";
+
  import Createtask from "./Components/Createtask";
+ import Card from "./Components/Card";
 
 
 
